@@ -4,7 +4,10 @@
 ## **1. Introduction**
 -   macOS: Big Sur 11.2.1
 -   OpenCore: 0.6.6
-### **My Hardware:**
+
+<img src="https://github.com/manhhungdoan/hackintosh/blob/main/Screen%20Shot.png">
+
+### **My Hardware**
 <table>
 <tr>
     <td><strong>Model</td>
