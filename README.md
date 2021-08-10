@@ -1,9 +1,12 @@
 
-# **Dell Latitude 5570 macOS Big Sur (OpenCore)**
+# **Dell Latitude 5570 Hackintosh(OpenCore)**
 
 ## **1. Introduction**
 -   macOS: Big Sur 11.2.1
 -   OpenCore: 0.6.6
+**The New Update**
+- macOS: Monterey 12 beta 4
+- OpenCore 0.7.1
 
 <img src="https://github.com/manhhungdoan/hackintosh/blob/main/Screen%20Shot.png">
 
