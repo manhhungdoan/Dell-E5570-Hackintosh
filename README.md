@@ -1,4 +1,5 @@
 
+
 # **Dell Latitude 5570 Hackintosh(OpenCore)**
 
 ## **1. Introduction**
