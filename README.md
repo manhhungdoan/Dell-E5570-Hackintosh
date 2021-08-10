@@ -4,7 +4,7 @@
 
 ## **1. Introduction**
 -   macOS: Big Sur 11.2.1
--   OpenCore: 0.6.6
+-   OpenCore: 0.6.6 <br/>
 **The New Update**
 - macOS: Monterey 12 beta 4
 - OpenCore 0.7.1
